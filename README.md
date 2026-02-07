@@ -1,16 +1,11 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of the software that you wrote and how it integrates with a SQL Relational Database. Describe how to use your program.}
 This is a console app written in python that connects to an SQLite Database. The database is created inside the root folder and as it is a console app, the user is prompted to select from a menu to add movies, see movies details, search for a movie, add rating, or delete existing movies.
 
-{Describe your purpose for writing this software.}
 This software was developed to get an understanding of SQLite and SQL relational database in general using a simple console app.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of how created the Relational Database.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/YtZ-BEXV_Us)
 
 # Relational Database
 
